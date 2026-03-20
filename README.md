@@ -1,2 +1,3 @@
-# nova-game-engine-o6sy
+# Nova Game Engine O6Sy
+
 A game engine project for modern development workflows.
